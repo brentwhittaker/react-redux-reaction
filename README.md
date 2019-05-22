@@ -9,3 +9,8 @@ React-redux basic chat app with emoji reactions (using pubnub)
 - **The Context Provider Component** uses a value property to provide data to any nested component through its context field.
 
 - The **Redux devtools** is an extension that allows you to examine the redux store state, and see actions being dispatched in real time.
+
+
+## Tools
+
+[Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
